@@ -9,5 +9,5 @@ const AuthLayout = ({
       </div>
      );
   }
-   
+
   export default AuthLayout;
